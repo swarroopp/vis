@@ -290,6 +290,7 @@ function App() {
                   position: 'absolute',
                   opacity: loraAlpha,
                   paddingRight: "5rem",
+                  paddingBottom: "0.4rem",
                   x: useTransform(matrixSeparation, [0, 150], [0, 190]),
                   display: 'flex',
                   alignItems: 'center',
